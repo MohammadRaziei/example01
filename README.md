@@ -18,4 +18,8 @@ int main() {
 }
 ```
 
-under MIT License
+under MIT License [license](LICENSE)
+
+
+tests:
+[test_example01.cpp](tests/test_example01.cpp)
